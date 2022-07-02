@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zach
 - 👀 I’m interested in making great user interfaces
-- 🌱 I’m currently using React.js, Svelte, CSS-In-JS in most of my projects
+- 🌱 I’m currently using React, Svelte, and CSS-In-JS in most of my projects
 - 📖 I'm trying to learn more about TypeScript, Deno, and GraphQL in my free time
 
 <!---
