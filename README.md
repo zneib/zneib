@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Zach
-- ✨ I’m interested in making great UX/UI experiences
+- ✨ I’m interested in making great UI experiences
 - 🧐 Checkout what I'm building on [zbar.dev](https://zbar.dev/)
 
 <!---
